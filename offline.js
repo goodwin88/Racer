@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1523238627,
+	"version": 1523295967,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"images/invisframe1-sheet0.png",
 		"images/viswheel-sheet0.png",
 		"images/viswheel-sheet1.png",
+		"images/viswheel-sheet2.png",
 		"images/envbgobject-sheet0.png",
 		"images/visaxle-sheet0.png",
 		"images/vischassis-sheet0.png",
@@ -27,6 +28,9 @@
 		"images/invisaxle3-sheet0.png",
 		"images/invisframe3-sheet0.png",
 		"images/gloom-sheet0.png",
+		"images/envracestart-sheet0.png",
+		"images/particlesmud.png",
+		"images/beaconcamera-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
