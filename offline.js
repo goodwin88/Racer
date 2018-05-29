@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527392143,
+	"version": 1527570659,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,9 @@
 		"images/camerainvis-sheet0.png",
 		"images/camerasprite-sheet0.png",
 		"images/camerachassis-sheet0.png",
+		"images/dialogbubbletext1.png",
+		"images/dialogbubblename1.png",
+		"images/dialogspike1-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

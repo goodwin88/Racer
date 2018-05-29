@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1527392143
+#1527570659
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -50,6 +50,9 @@ images/invisaxiszerox-sheet0.png
 images/camerainvis-sheet0.png
 images/camerasprite-sheet0.png
 images/camerachassis-sheet0.png
+images/dialogbubbletext1.png
+images/dialogbubblename1.png
+images/dialogspike1-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
